@@ -45,6 +45,8 @@
 
 <div align="center" >
 
+<!-- just img 图片 -->
+<img src="https://s1.ax1x.com/2023/07/07/pCc3Fmj.png" /></div>
 
 <!--  skill badge 技能徽章 -->
 💪 正在学习
@@ -96,9 +98,7 @@
 <img height="100" width="100" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/js.webp">
 <img height="100" width="100" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/github.webp">
 
-<div align="center" >
-<!-- just img 图片 -->
-<img src="https://s1.ax1x.com/2023/07/07/pCc3Fmj.png" /></div>
+
 
 <div align="center" >
 <!-- just img 图片 -->
