@@ -48,6 +48,8 @@
 <!-- just img 图片 -->
 <img src="https://s1.ax1x.com/2023/07/07/pCc3Fmj.png" /></div>
 
+
+<div align="center" >
 <!--  skill badge 技能徽章 -->
 💪 正在学习
 
