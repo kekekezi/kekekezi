@@ -96,9 +96,11 @@
 <img height="100" width="100" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/js.webp">
 <img height="100" width="100" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/github.webp">
 
+<div align="center" >
 <!-- just img 图片 -->
-<img src="[https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/icon.png](https://wakatime.com/share/embeddable.png?format=png&type=languages-bar&time_range=all_time&theme=Light&show_legend=true&show_title=true&confirm=false&timeout=15&writes_only=false&timezone=Asia%2FShanghai&weekday_start=0&date_format=YYYY-MM-DD)" /></div>
+<img src="https://s1.ax1x.com/2023/07/07/pCc3Fmj.png" /></div>
 
+<div align="center" >
 <!-- just img 图片 -->
 <img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/icon.png" /></div>
 
