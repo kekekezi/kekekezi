@@ -40,44 +40,6 @@
 <td>
 
 
-
-### 🧠 Second Brain
-
-<img align="right" width="88" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/technologist.png" />
-
-<!-- START_SECTION:brain -->
-* <a href='https://brain.sunguoqi.com/life/coder/yihong.html' target='_blank'>伊洪</a> - 2023-07-04
-* <a href='https://brain.sunguoqi.com/web/advanced/vue/learn/componebts/' target='_blank'>test</a> - 2023-06-25
-* <a href='https://brain.sunguoqi.com/web/advanced/vue/learn/essential/test.html' target='_blank'>Hello Vue</a> - 2023-06-25
-* <a href='https://brain.sunguoqi.com/web/base/html/page.html' target='_blank'>WIP</a> - 2020-01-01
-* <a href='https://brain.sunguoqi.com/web/advanced/vue/hello/hello-vue.html' target='_blank'>Hello Vue</a> - 2023-06-20
-<!-- END_SECTION:brain -->
-
-</td></tr>
-
-<tr><td>
-
-<tr><td>
-
-<!-- wakatime 统计 -->
-### 📊 WakaTime
-
-<picture>
-  <source
-    srcset="https://github-readme-stats.vercel.app/api/wakatime?username=sun0225SUN&layout=compact&text_color=f0f6fc&bg_color=00000000&hide_border=true&hide_title=true"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://github-readme-stats.vercel.app/api/wakatime?username=sun0225SUN&layout=compact&text_color=1f2328&bg_color=00000000&hide_border=true&hide_title=true"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=sun0225SUN&layout=compact&text_color=f0f6fc&bg_color=00000000&hide_border=true&hide_title=true" />
-</picture>
-
-</td></tr>
-
-<tr><td>
-
 <!--START_SECTION:waka-->
 **I'm an Early 🐤** 
 
@@ -134,33 +96,6 @@ Mac                      57 mins             ██░░░░░░░░░�
 
 <div align="center" >
 
-```mermaid
-mindmap
-  root((小孙同学))
-    编程
-      Web开发
-      网络爬虫
-      人工智能
-    摄影
-      人文
-      建筑
-      风景
-    旅行
-      苏州
-      南京
-      滁州
-      合肥
-      寿县
-    阅读
-      人物传记
-      个人成长
-      社会文化
-      心理
-      计算机技术
-```
-
-<!-- just img 图片 -->
-<img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/man.png" alt="Man Lifting Weights" width="250" height="250" />
 
 <!--  skill badge 技能徽章 -->
 💪 正在学习
