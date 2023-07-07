@@ -3,7 +3,7 @@
   <!-- dynamic typing effect 动态打字效果 -->
   <div align="center">
     <a href="https://blog.sunguoqi.com/">
-      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=console.log();&center=true&size=27" alt="Typing SVG" />
+      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=console.log("永远年轻");&center=true&size=27" alt="Typing SVG" />
     </a>
   </div>
 
@@ -40,57 +40,6 @@
 <td>
 
 
-<!--START_SECTION:waka-->
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                279 commits         █████░░░░░░░░░░░░░░░░░░░░   19.48 % 
-🌆 Daytime                455 commits         ████████░░░░░░░░░░░░░░░░░   31.77 % 
-🌃 Evening                508 commits         █████████░░░░░░░░░░░░░░░░   35.47 % 
-🌙 Night                  190 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.27 % 
-```
-📅 **I'm Most Productive on Friday** 
-
-```text
-Monday                   207 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.46 % 
-Tuesday                  182 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.71 % 
-Wednesday                187 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.06 % 
-Thursday                 150 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.47 % 
-Friday                   406 commits         ███████░░░░░░░░░░░░░░░░░░   28.35 % 
-Saturday                 154 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.75 % 
-Sunday                   146 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.20 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Shanghai
-
-💬 Programming Languages: 
-Markdown                 2 hrs 10 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.92 % 
-JavaScript               2 hrs 7 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.44 % 
-Vue.js                   1 hr 44 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.34 % 
-YAML                     1 hr 17 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.60 % 
-CSS                      1 hr 16 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.48 % 
-
-🔥 Editors: 
-VS Code                  9 hrs 58 mins       █████████████████████░░░░   82.04 % 
-IntelliJ                 1 hr 46 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.53 % 
-Obsidian                 25 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.43 % 
-
-💻 Operating System: 
-Windows                  11 hrs 12 mins      ███████████████████████░░   92.18 % 
-Mac                      57 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.82 % 
-```
-
-
- Last Updated on 06/07/2023 01:55:43 UTC
-<!--END_SECTION:waka-->
-  
-</td></tr>
-</table>
-
 <!-- ########################################## 分割 ########################################## -->
 <img width="200%" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/hr.gif" />
 
@@ -100,30 +49,15 @@ Mac                      57 mins             ██░░░░░░░░░�
 <!--  skill badge 技能徽章 -->
 💪 正在学习
 
-![HTML5 Badge](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=fff&style=flat)
-![CSS3 Badge](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=fff&style=flat)
 ![JavaScript Badge](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000&style=flat)
 ![Vue.js Badge](https://img.shields.io/badge/Vue.js-4FC08D?logo=vuedotjs&logoColor=fff&style=flat)
 ![React Badge](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=000&style=flat)
-![Python Badge](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff&style=flat)
-![Spring Badge](https://img.shields.io/badge/Spring-6DB33F?logo=spring&logoColor=fff&style=flat)
-![Qt Badge](https://img.shields.io/badge/Qt-41CD52?logo=qt&logoColor=fff&style=flat)
-![MongoDB Badge](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=fff&style=flat)
-![Django Badge](https://img.shields.io/badge/Django-092E20?logo=django&logoColor=fff&style=flat)
+![TypeScript Badge](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff&style=flat)
   
 🧠 计划学习
-
-![C Badge](https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=fff&style=flat)
-![C++ Badge](https://img.shields.io/badge/C%2B%2B-00599C?logo=cplusplus&logoColor=fff&style=flat)
-![C Sharp Badge](https://img.shields.io/badge/C%20Sharp-239120?logo=csharp&logoColor=fff&style=flat)
-![R Badge](https://img.shields.io/badge/R-276DC3?logo=r&logoColor=fff&style=flat)
-![PHP Badge](https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=fff&style=flat)
-![TypeScript Badge](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff&style=flat)
 ![Node.js Badge](https://img.shields.io/badge/Node.js-393?logo=nodedotjs&logoColor=fff&style=flat)
-![jQuery Badge](https://img.shields.io/badge/jQuery-0769AD?logo=jquery&logoColor=fff&style=flat)
 ![Vite Badge](https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=fff&style=flat)
-![Android Badge](https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=fff&style=flat)
-![Three.js Badge](https://img.shields.io/badge/Three.js-092E20?logo=threedotjs&logoColor=fff&style=flat)
+
 
 🧰 常用的工具
 
@@ -230,20 +164,6 @@ Mac                      57 mins             ██░░░░░░░░░�
 <img width="150" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/cxyduck.gif" />&emsp;
 <img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/github-metrics/base.svg" />
 &emsp;<img width="150" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/cxyduck.gif" />
-
-<!-- My Blog 博客首页 -->
-<!-- <img width="150" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/pig.gif" />&emsp;
-<a href="https://blog.sunguoqi.com"><img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/github-metrics/pagespeed.screenshot.svg" /></a>
-&emsp;<img width="150" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/pig.gif" /> -->
-
-<!-- GitHub Activity Graph GitHub 活动图 -->
-<table align="center">
-  <tr>
-    <td><img src="https://github-readme-activity-graph.vercel.app/graph?username=sun0225SUN&theme=xcode&bg_color=FF000000&hide_border=true" alt="Activity"/></td>
-  </tr>
-</table>
-
-</div>
 
 <!-- ########################################## 分割 ########################################## -->
 <img width="200%" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/hr.gif" />
