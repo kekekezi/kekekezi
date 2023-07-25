@@ -2,7 +2,7 @@
   
   <!-- dynamic typing effect 动态打字效果 -->
   <div align="center" >
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&pause=10001&width=635&lines=%E4%BD%86%E6%84%BF%E6%9C%89%E6%9C%9D%E4%B8%80%E6%97%A5%EF%BC%8C%E6%88%91%E8%83%BD%E5%83%8F%E6%98%A5%E9%A3%8E%E4%B8%80%E6%A0%B7%EF%BC%8C%E4%B8%8D%E5%B8%A6%E6%9C%9F%E8%AE%B8%E7%9A%84%E5%90%B9%E6%8B%82%E7%9D%80%E4%BD%A0;%E9%82%A3%E6%97%B6...;--+Hiperson" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&duration=6000&pause=2000&width=635&lines=%E4%BD%86%E6%84%BF%E6%9C%89%E6%9C%9D%E4%B8%80%E6%97%A5%EF%BC%8C%E6%88%91%E8%83%BD%E5%83%8F%E6%98%A5%E9%A3%8E%E4%B8%80%E6%A0%B7%EF%BC%8C%E4%B8%8D%E5%B8%A6%E6%9C%9F%E8%AE%B8%E7%9A%84%E5%90%B9%E6%8B%82%E7%9D%80%E4%BD%A0;%E9%82%A3%E6%97%B6...;--+Hiperson" alt="Typing SVG" />
   </div>
 
   <!-- knock code pictures 敲代码的图片 -->
